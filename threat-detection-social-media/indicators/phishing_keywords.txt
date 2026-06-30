@@ -1,0 +1,42 @@
+# Phishing Keywords for Social Media Monitoring
+# Format: one keyword/phrase per line
+
+# Account-related
+verify your account
+confirm your identity
+your account has been suspended
+unusual login activity
+update your information
+click to secure your account
+account verification required
+
+# Urgency triggers
+act now
+limited time
+expires today
+immediate action required
+urgent notice
+last warning
+
+# Credential harvesting
+enter your password
+login to confirm
+sign in here
+reset your credentials
+
+# Financial scams
+free gift card
+win a prize
+claim your reward
+you have been selected
+100% guaranteed profit
+send crypto to receive more
+bitcoin giveaway
+
+# Link obfuscation indicators
+bit.ly
+tinyurl.com
+goo.gl
+ow.ly
+shorturl.at
+is.gd
